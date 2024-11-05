@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odeceeye.github.io/AEZ/sitemap_index.txt
+Sitemap: https://odeceeye.github.io/FuN/sitemap_index.txt
+Sitemap: https://odeceeye.github.io/GLn/sitemap_index.txt
+Sitemap: https://odeceeye.github.io/joT/sitemap_index.txt
